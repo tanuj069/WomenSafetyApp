@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "write ur own",
+    "project_id": "women-safety-sos-5fe51",
+    "storage_bucket": "women-safety-sos-5fe51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "write ur own",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "write ur own"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
